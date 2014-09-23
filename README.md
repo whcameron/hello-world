@@ -1,3 +1,3 @@
 hello-world
 ===========
-This is my first commit message on github. 
+This is my first commit message
